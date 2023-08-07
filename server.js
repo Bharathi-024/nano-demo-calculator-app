@@ -26,3 +26,4 @@ app.use(baseUrl, baseRouter);
 app.listen(PORT, () => {
     console.log("Server running at PORT", PORT);
 });
+console.log(err);
